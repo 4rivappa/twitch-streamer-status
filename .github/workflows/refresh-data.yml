@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate_graph:
+  getting data from twitch:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
