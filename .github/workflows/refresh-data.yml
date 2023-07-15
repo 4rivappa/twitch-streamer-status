@@ -2,7 +2,7 @@ name: refresh streamer data
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.ACCESS_TOKEN }}
       
       - name: Set up Python 3.11
         uses: actions/setup-python@v4
