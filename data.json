@@ -1,0 +1,150 @@
+{
+    "streams": [],
+    "videos": [
+        {
+            "created_at": "2024-01-06 23:35:19+00:00",
+            "title": "code for a bit, then watercolor for a bit",
+            "url": "https://www.twitch.tv/videos/2024957755"
+        },
+        {
+            "created_at": "2024-01-06 04:22:37+00:00",
+            "title": "random attempt to code. LC, then bot stuff",
+            "url": "https://www.twitch.tv/videos/2024171177"
+        },
+        {
+            "created_at": "2024-01-06 03:17:22+00:00",
+            "title": "random attempt to code. LC, then bot stuff",
+            "url": "https://www.twitch.tv/videos/2024115042"
+        },
+        {
+            "created_at": "2023-12-31 21:12:10+00:00",
+            "title": "HNY! Time flies. ^('_')^ Some impulsive python, then some watercolor",
+            "url": "https://www.twitch.tv/videos/2019173242"
+        },
+        {
+            "created_at": "2023-12-28 01:12:42+00:00",
+            "title": "goal: get timebot to get me ya'lls mbti stats. then: paint your 5x7 redeems?",
+            "url": "https://www.twitch.tv/videos/2015631477"
+        },
+        {
+            "created_at": "2023-12-23 03:28:42+00:00",
+            "title": "scrappy stream. 1) say hi to 4 friend budgies 2) cont issue tracker tutorial probably",
+            "url": "https://www.twitch.tv/videos/2011542585"
+        },
+        {
+            "created_at": "2023-12-19 21:07:19+00:00",
+            "title": "This ISFP tested as INTP thanks you guys. Tryna speedrun an issue tracker tutorial",
+            "url": "https://www.twitch.tv/videos/2008583298"
+        },
+        {
+            "created_at": "2023-12-19 05:31:09+00:00",
+            "title": "Issue tracker (cont). Implementing google auth",
+            "url": "https://www.twitch.tv/videos/2008093672"
+        },
+        {
+            "created_at": "2023-12-17 23:05:24+00:00",
+            "title": "1) cowork as i make an issue tracker. 2) watercolor painting redeems?",
+            "url": "https://www.twitch.tv/videos/2006991567"
+        },
+        {
+            "created_at": "2023-12-16 21:51:53+00:00",
+            "title": "1) continue with making issue tracker 2) paint?! (redemption)",
+            "url": "https://www.twitch.tv/videos/2006020211"
+        },
+        {
+            "created_at": "2023-12-15 21:25:20+00:00",
+            "title": "cowork while I learn to make an issue tracker via nextjs and TS",
+            "url": "https://www.twitch.tv/videos/2005050170"
+        },
+        {
+            "created_at": "2023-12-14 18:34:20+00:00",
+            "title": "such early. cowork. while I making an issue tracker via nextjs and TS",
+            "url": "https://www.twitch.tv/videos/2004038888"
+        },
+        {
+            "created_at": "2023-12-12 01:00:47+00:00",
+            "title": "accountability + cowork stream (task: make a NextJS Issue Tracker)",
+            "url": "https://www.twitch.tv/videos/2001759344"
+        },
+        {
+            "created_at": "2023-12-06 20:55:30+00:00",
+            "title": "(Advent of Code 2023) Playing catchup - Days 3, 5, 6",
+            "url": "https://www.twitch.tv/videos/1997024878"
+        },
+        {
+            "created_at": "2023-12-05 04:32:31+00:00",
+            "title": "(Advent of Code 2023) Day 5",
+            "url": "https://www.twitch.tv/videos/1995641961"
+        },
+        {
+            "created_at": "2023-12-04 03:44:36+00:00",
+            "title": "(Advent of Code 2023) redoing day 3, not sure if getting to day 4",
+            "url": "https://www.twitch.tv/videos/1994771560"
+        },
+        {
+            "created_at": "2023-12-03 02:44:50+00:00",
+            "title": "(Advent of Code 2023) add types to Day 2, start Day 3",
+            "url": "https://www.twitch.tv/videos/1993726358"
+        },
+        {
+            "created_at": "2023-12-02 03:06:37+00:00",
+            "title": "(Advent of Code 2023) add types to Day 1, start Day 2",
+            "url": "https://www.twitch.tv/videos/1992691380"
+        },
+        {
+            "created_at": "2023-12-01 03:20:07+00:00",
+            "title": "TimeBot & AoC Day 1, :0 probably in python",
+            "url": "https://www.twitch.tv/videos/1991809399"
+        },
+        {
+            "created_at": "2023-11-28 21:18:59+00:00",
+            "title": "This DnD page is taking a lot longer than I thought, but at least budgies are here |  !today",
+            "url": "https://www.twitch.tv/videos/1989789049"
+        },
+        {
+            "created_at": "2023-11-26 23:43:36+00:00",
+            "title": "components + budgies |  !today",
+            "url": "https://www.twitch.tv/videos/1988241451"
+        },
+        {
+            "created_at": "2023-11-26 04:02:09+00:00",
+            "title": "back to website building (nextjs + supabase)| (music bot works again yay!) | !today",
+            "url": "https://www.twitch.tv/videos/1987505036"
+        },
+        {
+            "created_at": "2023-11-22 22:33:23+00:00",
+            "title": "Reunite my two parakeets, then back to Nextjs + User creation (supabase)",
+            "url": "https://www.twitch.tv/videos/1984635762"
+        },
+        {
+            "created_at": "2023-11-22 01:00:33+00:00",
+            "title": "debugging nextjs-supabase | !today",
+            "url": "https://www.twitch.tv/videos/1983879184"
+        },
+        {
+            "created_at": "2023-11-20 05:07:39+00:00",
+            "title": "more authentication!?! yes. next-auth things",
+            "url": "https://www.twitch.tv/videos/1982354555"
+        },
+        {
+            "created_at": "2023-11-18 21:55:45+00:00",
+            "title": "more struggling through nextjs14, react, and supabase :,)",
+            "url": "https://www.twitch.tv/videos/1981116294"
+        },
+        {
+            "created_at": "2023-11-18 00:06:34+00:00",
+            "title": "more struggling through nextjs14, react, and supabase :,)",
+            "url": "https://www.twitch.tv/videos/1980253662"
+        },
+        {
+            "created_at": "2023-11-17 04:56:40+00:00",
+            "title": "Redoing light and dark mode with NextJS (+ React) \u0449\uff08\uff9f\u0414\uff9f\u0449\uff09",
+            "url": "https://www.twitch.tv/videos/1979585888"
+        },
+        {
+            "created_at": "2023-11-14 23:31:24+00:00",
+            "title": "Following a NextJS + Discord Auth Tutorial. (redoing D&D site)",
+            "url": "https://www.twitch.tv/videos/1977621178"
+        }
+    ]
+}

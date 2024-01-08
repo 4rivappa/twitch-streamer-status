@@ -1,0 +1,20 @@
+{
+    "streams": [],
+    "videos": [
+        {
+            "created_at": "2024-01-06 23:35:19+00:00",
+            "title": "code for a bit, then watercolor for a bit",
+            "url": "https://www.twitch.tv/videos/2024957755"
+        },
+        {
+            "created_at": "2024-01-06 04:22:37+00:00",
+            "title": "random attempt to code. LC, then bot stuff",
+            "url": "https://www.twitch.tv/videos/2024171177"
+        },
+        {
+            "created_at": "2024-01-06 03:17:22+00:00",
+            "title": "random attempt to code. LC, then bot stuff",
+            "url": "https://www.twitch.tv/videos/2024115042"
+        }
+    ]
+}
