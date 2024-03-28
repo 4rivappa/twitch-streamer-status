@@ -1,0 +1,20 @@
+{
+    "streams": [],
+    "videos": [
+        {
+            "created_at": "2024-03-27 03:36:29+00:00",
+            "title": "hi! doing one thing or another with the twitch bot",
+            "url": "https://www.twitch.tv/videos/2102659667"
+        },
+        {
+            "created_at": "2024-03-20 19:02:16+00:00",
+            "title": "twitch bot: restore and resume work on the \"first\" command",
+            "url": "https://www.twitch.tv/videos/2096442898"
+        },
+        {
+            "created_at": "2024-03-17 21:54:18+00:00",
+            "title": "SUNDAY ART DAY - im going to mail out these painting redemptions next week",
+            "url": "https://www.twitch.tv/videos/2093870711"
+        }
+    ]
+}
