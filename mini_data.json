@@ -1,0 +1,25 @@
+{
+    "streams": [
+        {
+            "started_at": "2024-10-24 18:58:51+00:00",
+            "title": "using o1-mini to fix my website"
+        }
+    ],
+    "videos": [
+        {
+            "created_at": "2024-10-24 18:58:56+00:00",
+            "title": "using o1-mini to fix my website",
+            "url": "https://www.twitch.tv/videos/2284252948"
+        },
+        {
+            "created_at": "2024-10-24 02:10:38+00:00",
+            "title": "fixing broken things on this codejam website",
+            "url": "https://www.twitch.tv/videos/2283750492"
+        },
+        {
+            "created_at": "2024-10-12 05:04:25+00:00",
+            "title": "some watercolor, then maybe some code",
+            "url": "https://www.twitch.tv/videos/2273891749"
+        }
+    ]
+}

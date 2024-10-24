@@ -1,0 +1,75 @@
+{
+    "streams": [
+        {
+            "started_at": "2024-10-24 18:58:51+00:00",
+            "title": "using o1-mini to fix my website"
+        }
+    ],
+    "videos": [
+        {
+            "created_at": "2024-10-24 18:58:56+00:00",
+            "title": "using o1-mini to fix my website",
+            "url": "https://www.twitch.tv/videos/2284252948"
+        },
+        {
+            "created_at": "2024-10-24 02:10:38+00:00",
+            "title": "fixing broken things on this codejam website",
+            "url": "https://www.twitch.tv/videos/2283750492"
+        },
+        {
+            "created_at": "2024-10-12 05:04:25+00:00",
+            "title": "some watercolor, then maybe some code",
+            "url": "https://www.twitch.tv/videos/2273891749"
+        },
+        {
+            "created_at": "2024-10-09 17:07:11+00:00",
+            "title": "cowork as i work on site. morning bug hunts",
+            "url": "https://www.twitch.tv/videos/2271701448"
+        },
+        {
+            "created_at": "2024-10-07 23:45:39+00:00",
+            "title": "cowork as i work on site. removing users from teams",
+            "url": "https://www.twitch.tv/videos/2270325825"
+        },
+        {
+            "created_at": "2024-10-05 05:32:23+00:00",
+            "title": "late stream, adding ability to edit teams",
+            "url": "https://www.twitch.tv/videos/2268029744"
+        },
+        {
+            "created_at": "2024-10-03 00:43:05+00:00",
+            "title": "chipping away at this website",
+            "url": "https://www.twitch.tv/videos/2266222409"
+        },
+        {
+            "created_at": "2024-09-16 19:11:09+00:00",
+            "title": "short stream before art night in discord!",
+            "url": "https://www.twitch.tv/videos/2252774216"
+        },
+        {
+            "created_at": "2024-09-13 00:12:38+00:00",
+            "title": "short stream before art night in discord!",
+            "url": "https://www.twitch.tv/videos/2249595346"
+        },
+        {
+            "created_at": "2024-09-10 23:54:59+00:00",
+            "title": "i take forever to build a website",
+            "url": "https://www.twitch.tv/videos/2247930676"
+        },
+        {
+            "created_at": "2024-09-05 21:00:56+00:00",
+            "title": "i take forever to build a website",
+            "url": "https://www.twitch.tv/videos/2243506880"
+        },
+        {
+            "created_at": "2024-09-05 04:32:42+00:00",
+            "title": "i take forever to build a website",
+            "url": "https://www.twitch.tv/videos/2243004361"
+        },
+        {
+            "created_at": "2024-06-27 23:19:42+00:00",
+            "title": "Clip: Running into Prime and Delia at Opensauce 2024!",
+            "url": "https://www.twitch.tv/videos/2183426140"
+        }
+    ]
+}
